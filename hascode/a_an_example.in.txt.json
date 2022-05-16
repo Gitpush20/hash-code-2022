@@ -1,0 +1,85 @@
+{
+    "contributors": [
+        {
+            "name": "Anna",
+            "skills": [
+                {
+                    "name": "C++",
+                    "level": 2
+                }
+            ]
+        },
+        {
+            "name": "Bob",
+            "skills": [
+                {
+                    "name": "HTML",
+                    "level": 5
+                },
+                {
+                    "name": "CSS",
+                    "level": 50
+                }
+            ]
+        },
+        {
+            "name": "Maria",
+            "skills": [
+                {
+                    "name": "Python",
+                    "level": 3
+                },
+                {
+                    "name": "CSS",
+                    "level": 15
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Logging",
+            "days": 5,
+            "score": 10,
+            "best_before": 5,
+            "roles": [
+                {
+                    "name": "C++",
+                    "level": 3
+                }
+            ]
+        },
+        {
+            "name": "WebServer",
+            "days": 7,
+            "score": 10,
+            "best_before": 7,
+            "roles": [
+                {
+                    "name": "HTML",
+                    "level": 3
+                },
+                {
+                    "name": "C++",
+                    "level": 2
+                }
+            ]
+        },
+        {
+            "name": "WebChat",
+            "days": 10,
+            "score": 20,
+            "best_before": 20,
+            "roles": [
+                {
+                    "name": "Python",
+                    "level": 3
+                },
+                {
+                    "name": "HTML",
+                    "level": 3
+                }
+            ]
+        }
+    ]
+}
